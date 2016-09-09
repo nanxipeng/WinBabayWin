@@ -4,7 +4,7 @@
 //
 //  Created by 彭楠稀 on 9/9/16.
 //  Copyright © 2016 Nanxi Peng. All rights reserved.
-//
+//  Teaching by Yan // Love you!
 
 import UIKit
 
